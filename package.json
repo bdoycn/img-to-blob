@@ -1,0 +1,28 @@
+{
+  "name": "img-to-blob",
+  "version": "1.0.0",
+  "description": "将 img 中的图像数据转换为二进制数据",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdoycn/img-to-blob.git"
+  },
+  "keywords": [
+    "img",
+    "blob"
+  ],
+  "author": "bdoycn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdoycn/img-to-blob/issues"
+  },
+  "homepage": "https://github.com/bdoycn/img-to-blob#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
