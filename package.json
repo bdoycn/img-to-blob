@@ -1,6 +1,6 @@
 {
   "name": "img-to-blob",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "将 img 中的图像数据转换为二进制数据",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
